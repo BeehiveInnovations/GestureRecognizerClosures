@@ -218,11 +218,12 @@
 				TargetAttributes = {
 					A0E0A2CF1B8D186F00E9F7D0 = {
 						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = N4RA379GBW;
 						LastSwiftMigration = 1020;
 					};
 					A0E0A2DA1B8D186F00E9F7D0 = {
 						CreatedOnToolsVersion = 6.4;
-						DevelopmentTeam = HYV9U93759;
+						DevelopmentTeam = N4RA379GBW;
 						LastSwiftMigration = 1020;
 					};
 				};
@@ -395,14 +396,16 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "$(inherited)";
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = N4RA379GBW;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = GestureRecognizerClosures/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "xyz.marcb.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.busymac.GestureRecognizerClosures;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
@@ -415,7 +418,7 @@
 			baseConfigurationReference = 1D6408EB2F0B42B6369E193D /* Pods-GestureRecognizerClosuresTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "$(inherited)";
-				DEVELOPMENT_TEAM = HYV9U93759;
+				DEVELOPMENT_TEAM = N4RA379GBW;
 				INFOPLIST_FILE = GestureRecognizerClosuresTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "xyz.marcb.$(PRODUCT_NAME:rfc1034identifier)";
@@ -540,14 +543,16 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "$(inherited)";
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = N4RA379GBW;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = GestureRecognizerClosures/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "xyz.marcb.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.busymac.GestureRecognizerClosures;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -561,14 +566,16 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "$(inherited)";
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = N4RA379GBW;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = GestureRecognizerClosures/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "xyz.marcb.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.busymac.GestureRecognizerClosures;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
@@ -581,7 +588,7 @@
 			baseConfigurationReference = A27428F363D386D9A572F738 /* Pods-GestureRecognizerClosuresTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "$(inherited)";
-				DEVELOPMENT_TEAM = HYV9U93759;
+				DEVELOPMENT_TEAM = N4RA379GBW;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
@@ -599,7 +606,7 @@
 			baseConfigurationReference = 1D6408EB2F0B42B6369E193D /* Pods-GestureRecognizerClosuresTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "$(inherited)";
-				DEVELOPMENT_TEAM = HYV9U93759;
+				DEVELOPMENT_TEAM = N4RA379GBW;
 				INFOPLIST_FILE = GestureRecognizerClosuresTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "xyz.marcb.$(PRODUCT_NAME:rfc1034identifier)";
@@ -665,14 +672,16 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "$(inherited)";
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = N4RA379GBW;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = GestureRecognizerClosures/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "xyz.marcb.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.busymac.GestureRecognizerClosures;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
@@ -685,7 +694,7 @@
 			baseConfigurationReference = 1D6408EB2F0B42B6369E193D /* Pods-GestureRecognizerClosuresTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "$(inherited)";
-				DEVELOPMENT_TEAM = HYV9U93759;
+				DEVELOPMENT_TEAM = N4RA379GBW;
 				INFOPLIST_FILE = GestureRecognizerClosuresTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "xyz.marcb.$(PRODUCT_NAME:rfc1034identifier)";
